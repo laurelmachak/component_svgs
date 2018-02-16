@@ -1,4 +1,4 @@
-<svg role="img" viewBox="0 0 48 20" xmlns="http://www.w3.org/2000/svg"><title id="Transistor">Transistor Symbol</title>
+<svg role="img" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg"><title id="Transistor">Transistor Symbol</title>
 <g id="transistor" class="transistor part" transform="translate(1.000000, 0.000000)">
                 <rect id="Rectangle" fill-opacity="0.163354846" fill="#FF0000" x="13" y="13" width="20" height="20"></rect>
                 <path d="M13.5,13.5 L13.5,32.5" id="Line-3" stroke="#979797" stroke-width="2" stroke-linecap="square"></path>
